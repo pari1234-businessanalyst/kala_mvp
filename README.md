@@ -50,7 +50,7 @@ It solves a *real-world problem*: making performances, knowledge, and endangered
 6. *Phase 5 – QA & Fixes*: Fixed video links, improved search (fuzzy matching, synonyms).  
 7. *Phase 6 – Deployment*:  
    - Backend → Render (https://kala-mvp.onrender.com/docs)  
-   - Frontend → Netlify (https://kala.netlify.app)  
+   - Frontend → Netlify (https://kalaakar.netlify.app)  
    - Connected via environment variables.  
 
 ---
@@ -94,7 +94,7 @@ This strengthens my ability to apply AI in *business analyst roles*, bridging te
 ---
 
 ## 🌐 Live Demo
-- *Frontend:* [Kala on Netlify](https://kala.netlify.app)  
+- *Frontend:* [Kala on Netlify](https://kalaakar.netlify.app)  
 - *Backend Docs:* [Kala API on Render](https://kala-mvp.onrender.com/docs)  
 
 ---
