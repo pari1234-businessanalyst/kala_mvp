@@ -6,10 +6,8 @@ Growing up around Indian classical art forms, I saw a huge challenge:
 - Information about traditional arts is scattered in books (many not digitized, often complex language).  
 - Dying and endangered art forms lack digital presence and revival efforts.  
 
-*Kala* is my flagship project — a cultural platform that preserves, explains, and revives art forms.  
 It solves a *real-world problem*: making performances, knowledge, and endangered arts accessible in one place, using modern web tech and AI.  
 
-This project is also designed to *showcase my technical expertise* as a *full-stack developer and business analyst* who doesn’t just code, but builds solutions aligned with business impact.  
 
 ---
 
