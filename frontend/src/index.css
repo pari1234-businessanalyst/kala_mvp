@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global look & feel */
+@layer base {
+  html, body, #root { height: 100%; }
+
+  /* Background + default text + body font */
+  body { @apply bg-brand-bg text-brand-brown font-body; }
+
+  /* Headings in Georgia */
+  h1, h2, h3, h4 { @apply font-heading; }
+
+  /* Links use the green accent */
+  a { @apply text-brand-green; }
+}
